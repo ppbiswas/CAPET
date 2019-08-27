@@ -443,7 +443,7 @@ def main():
         scale_usage_interval()
     elif option == "8":
         print "Key in noise percentage. (Unit is %, meaning if key in 50 => 50%)"
-        print "The original noise folder must contain the noisy data first for copying"
+        print "The original noise folder must contain the noisy data for copying"
         noise_perc = float(raw_input())
         copy_process_noise_data(noise = noise_perc)
     else:
