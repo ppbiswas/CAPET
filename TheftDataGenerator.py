@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-    Generate the data needed by Correlation Experiments
+    Generate the data needed for Correlation Experiments
     Refer read me for more details
 
 """
